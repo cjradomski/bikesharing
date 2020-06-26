@@ -1,6 +1,6 @@
 # NYC Citi Bike Analysis
 ## Should There Be Bike-Sharing in Des Moines, Iowa?
-### In this analysis, New York data from Citi-Bike, a bike-sharing service, will be looked at to determine the types of customers and how the service is utilized. Then a population comparison will be made between New York and Des Moines to create a rough estimate of how the bike-sharing service will perform in Des Moines.
+### In this analysis, New York data from Citi-Bike, a bike-sharing service, will be looked at to determine the types of customers and how the service is utilized. Then a population comparison will be made between New York and Des Moines to create a rough estimate of how the bike-sharing service will perform in Des Moines. The questions this analysis attempts to answer in regards to setting up a bike sharing service are: What is the population of Des Moines? How does its population compare to the population of New York City? Does the population affect the number of people who will use the bike-sharing program?
 
 ### Interactive visualizations can be found here: https://public.tableau.com/profile/christian.radomski#!/vizhome/Citi-Bike_15931958525900/CitiBikeStory?publish=yes
 
